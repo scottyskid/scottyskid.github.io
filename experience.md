@@ -109,9 +109,9 @@ nav-menu: true
 		<header class="major">
 			<h2>Employment History</h2>
 		</header>
-		<p>I currently work at <a href="www.cheproximity.com.au/">CHE Proximity</a> a full service advertising and consultency company where data is a core philosophy and utlised in all aspects of the business. For a full list of my employment history please see my LinkedIn profile.</p>
+		<p>I currently work at <a href="http://www.cheproximity.com.au/">CHE Proximity</a> a full service advertising and consultency company where data is a core philosophy and utlised in all aspects of the business. For a full list of my employment history please see my LinkedIn profile.</p>
 		<ul class="actions">
-			<li><a href="www.linkedin.com/in/scotty-skidmore-5b528394/" class="button next">Scotty's LinkedIn</a></li>
+			<li><a href="http://www.linkedin.com/in/scotty-skidmore-5b528394/" class="button next">Scotty's LinkedIn</a></li>
 		</ul>
 	</div>
 </section>
