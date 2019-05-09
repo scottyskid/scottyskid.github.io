@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Python</h2>
+			<h2>Data Science</h2>
 		</header>
 		<p>I have expierence in python scripting, web scraping, data science, etc. </p>
 	</div>
@@ -28,9 +28,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Python</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>I have expierence in python scripting, web scraping, data science, etc. </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -44,7 +44,23 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Machine Learning</h3>
+				</header>
+				<p>Worked on various machine leraning projects across clients</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3> SQL and Databases</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -60,7 +76,23 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3> Tableau and Visulaisation</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Automation</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -75,7 +107,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Self Learning</h2>
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
 		<ul class="actions">
